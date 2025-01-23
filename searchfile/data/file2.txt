@@ -1,0 +1,3 @@
+Java is great for multi-threading.
+Searching files is now efficient.
+This line contains the keyword.
